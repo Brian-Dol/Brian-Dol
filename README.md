@@ -42,7 +42,11 @@ I'm a **Senior Full Stack Engineer** who takes features from requirements throug
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,terraform,githubactions,linux,nginx" alt="Cloud" />
 
 **CMS, e-commerce and tooling**<br>
-<img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify,git,github,vscode,postman" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman" alt="Tooling" /><br>
+<img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/Shopify-7ab55c?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/Magento-ee672f?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" />
+<img src="https://img.shields.io/badge/Elementor-92003b?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
 
 </div>
 
