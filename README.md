@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Brian%20Dol&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20Cloud&descAlignY=58&descSize=20" alt="Brian Dol banner" />
-
-<img src="./assets/brian.jpg" width="150" alt="Brian Dol" style="border-radius:50%" />
+<img src="./assets/banner.svg" alt="Brian Dol, Senior Full Stack Engineer" width="100%" />
 
 ### Building, integrating and shipping production software for 9+ years
 
@@ -113,7 +111,5 @@ I'm looking for a **full-time, permanent software engineering role**. The fastes
 
 [![Email me](https://img.shields.io/badge/Email_me-dol.brian23%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dol.brian23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brian--dol-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-dol-31a06115a/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" alt="" />
 
 </div>
