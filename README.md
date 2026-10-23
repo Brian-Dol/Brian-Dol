@@ -4,7 +4,7 @@
 
 ### Building, integrating and shipping production software for 9+ years
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.dol--brian23.workers.dev-2563eb?style=for-the-badge&logo=cloudflare&logoColor=white)](https://portfolio.dol-brian23.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.briandol.workers.dev-2563eb?style=for-the-badge&logo=cloudflare&logoColor=white)](https://portfolio.briandol.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-dol-31a06115a/)
 [![Email](https://img.shields.io/badge/Email-dol.brian23%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dol.brian23@gmail.com)
 
@@ -56,13 +56,13 @@ I'm a **Senior Full Stack Engineer** who takes features from requirements throug
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🌐 [**AI-Powered Portfolio**](https://github.com/Brian-Dol/brian-website-portfolio) | Serverless portfolio with a real AI assistant, health endpoint and interactive architecture diagrams. [Live](https://portfolio.dol-brian23.workers.dev/) | Next.js, React, TypeScript, Cloudflare Workers AI |
+| 🌐 [**AI-Powered Portfolio**](https://github.com/Brian-Dol/brian-website-portfolio) | Serverless portfolio with a real AI assistant, health endpoint and interactive architecture diagrams. [Live](https://portfolio.briandol.workers.dev/) | Next.js, React, TypeScript, Cloudflare Workers AI |
 | 📈 [**Stock Prediction Platform**](https://github.com/Brian-Dol/stock-prediction-platform) | Secure forecasting dashboard with JWT auth, admin tools and an ML service | React, Express, MongoDB, Flask, scikit-learn, Docker |
 | 🗺️ [**Land Quality API**](https://github.com/Brian-Dol/land-quality-api) | JWT-secured REST API for land records and coordinate-based quality analysis | Django REST Framework, PostGIS, Docker |
 | 💸 [**Grofunder**](https://github.com/Brian-Dol/grofunder) | Loan management system with M-Pesa, bulk import and scheduled reports | Laravel, Filament, Livewire |
 | 🌱 [**Carbon Tracker**](https://github.com/Brian-Dol/carbon-tracker) | Carbon footprint tracking app | Vue 3, Express, SQLite |
 
-> More in [my repositories](https://github.com/Brian-Dol?tab=repositories). Case studies with architecture diagrams are on my [portfolio](https://portfolio.dol-brian23.workers.dev/).
+> More in [my repositories](https://github.com/Brian-Dol?tab=repositories). Case studies with architecture diagrams are on my [portfolio](https://portfolio.briandol.workers.dev/).
 
 ---
 
@@ -109,7 +109,7 @@ I'm a **Senior Full Stack Engineer** who takes features from requirements throug
 
 ## 🤝 Let's work together
 
-I'm looking for a **full-time, permanent software engineering role**. The fastest way to reach me is by email, or you can ask the AI assistant on my [portfolio](https://portfolio.dol-brian23.workers.dev/) about my work.
+I'm looking for a **full-time, permanent software engineering role**. The fastest way to reach me is by email, or you can ask the AI assistant on my [portfolio](https://portfolio.briandol.workers.dev/) about my work.
 
 <div align="center">
 
