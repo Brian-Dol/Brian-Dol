@@ -14,6 +14,18 @@
 
 ---
 
+## 🎮 Play my game: Dev Quest
+
+<div align="center">
+
+<a href="https://brian-dol.github.io/dev-quest/"><img src="./assets/dev-quest-banner.svg" alt="Dev Quest: click to play a Mario-style game through the software development lifecycle" width="100%" /></a>
+
+**A playable platformer where every world is a phase of the SDLC**, from requirements and design to testing, deployment and post-production support. [▶ Play now](https://brian-dol.github.io/dev-quest/) · [Source and docs](https://github.com/Brian-Dol/dev-quest)
+
+</div>
+
+---
+
 ## 👋 About me
 
 I'm a **Senior Full Stack Engineer** who takes features from requirements through implementation, testing, deployment and production support. I work across **React, Vue/Nuxt, Laravel, Django, Node.js and cloud infrastructure**, and I have recently been building **AI-powered applications** with LLM integrations, automation and secure APIs.
