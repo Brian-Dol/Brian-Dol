@@ -56,8 +56,8 @@ const rows = [
   ['📦', 'Public repositories', u.repositories.totalCount],
   ['🤝', 'Contributed to', u.repositoriesContributedTo.totalCount],
 ];
-const statsSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="GitHub stats for ${esc(USER)}">
-  <rect width="420" height="190" rx="10" fill="#0f172a" stroke="#1e293b"/>
+const statsSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="GitHub stats for ${esc(USER)}">
+  <rect width="420" height="210" rx="10" fill="#0f172a" stroke="#1e293b"/>
   <text x="24" y="34" ${font} font-size="18" font-weight="600" fill="#7aa2f7">${esc(USER)}'s GitHub Stats</text>
 ${rows.map(([i, label, v], k) => `  <text x="24" y="${66 + k * 24}" ${font} font-size="14" fill="#c0caf5">${i}  ${esc(label)}:</text>
   <text x="396" y="${66 + k * 24}" ${font} font-size="14" font-weight="700" fill="#e0af68" text-anchor="end">${esc(v)}</text>`).join('\n')}
@@ -73,8 +73,8 @@ const bar = topLangs.map(([, v]) => {
   bx += w;
   return seg;
 }).join('');
-const langSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="${Math.max(190, langHeight + 20)}" viewBox="0 0 420 ${Math.max(190, langHeight + 20)}" role="img" aria-label="Most used languages">
-  <rect width="420" height="${Math.max(190, langHeight + 20)}" rx="10" fill="#0f172a" stroke="#1e293b"/>
+const langSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="${Math.max(210, langHeight + 20)}" viewBox="0 0 420 ${Math.max(210, langHeight + 20)}" role="img" aria-label="Most used languages">
+  <rect width="420" height="${Math.max(210, langHeight + 20)}" rx="10" fill="#0f172a" stroke="#1e293b"/>
   <text x="24" y="34" ${font} font-size="18" font-weight="600" fill="#7aa2f7">Most Used Languages</text>
   <clipPath id="c"><rect x="24" y="46" width="${barW}" height="10" rx="5"/></clipPath>
   <g clip-path="url(#c)">${bar}</g>

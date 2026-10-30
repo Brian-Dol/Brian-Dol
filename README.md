@@ -112,8 +112,8 @@ I'm a **Senior Full Stack Engineer** who takes features from requirements throug
 
 <div align="center">
 
-<img height="190" src="./assets/github-stats.svg" alt="GitHub stats" />
-<img height="190" src="./assets/top-languages.svg" alt="Top languages" />
+<img height="210" src="./assets/github-stats.svg" alt="GitHub stats" />
+<img height="210" src="./assets/top-languages.svg" alt="Top languages" />
 
 </div>
 
