@@ -112,8 +112,8 @@ I'm a **Senior Full Stack Engineer** who takes features from requirements throug
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Brian-Dol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Dol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top languages" />
+<img height="190" src="./assets/github-stats.svg" alt="GitHub stats" />
+<img height="190" src="./assets/top-languages.svg" alt="Top languages" />
 
 </div>
 
