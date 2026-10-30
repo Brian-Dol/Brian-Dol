@@ -108,17 +108,6 @@ I'm a **Senior Full Stack Engineer** who takes features from requirements throug
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="210" src="./assets/github-stats.svg" alt="GitHub stats" />
-<img height="210" src="./assets/top-languages.svg" alt="Top languages" />
-
-</div>
-
----
-
 ## 🤝 Let's work together
 
 I'm looking for a **full-time, permanent software engineering role**. The fastest way to reach me is by email, or you can ask the AI assistant on my [portfolio](https://portfolio.briandol.workers.dev/) about my work.
